@@ -1,6 +1,7 @@
 # Museum Of Candy
 
-Museum of Candy project code-along from Colt Steele's web developer bootcamp
+Museum of Candy project code-along from Colt Steele's web developer bootcamp.
+
 Project uses some of the basic HTML, CSS, Bootstrap, Flexbox and media queries.
 
 ### Do you want to see the result ? ###
